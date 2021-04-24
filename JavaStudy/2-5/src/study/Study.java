@@ -31,7 +31,9 @@ public class Study {
 
         // ② 以下の「shopMap.put(shohinList.get(1), 180);」の処理について、コメントを記述してください。
         /*
-         * [ここへ記述]
+         * [LinkedHashMapクラスのインスタンスを生成し、
+         * shopMapにputメソッドを使用してListクラスを使用して作成した「バナナ」（キー）と
+         * 価格である125（値）の要素を追加している。]
          *
          */
         LinkedHashMap<String, Integer> shopMap = new LinkedHashMap<String, Integer>();
