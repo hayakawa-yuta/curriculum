@@ -4,6 +4,7 @@
     clear: both;
 }
 .wrapper {
+    margin: auto;
     width: 400px;
     height: 450px;
 }
